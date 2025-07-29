@@ -12,5 +12,5 @@ This project is an interactive HR analytics dashboard developed using **Power BI
 
 ## Tools & Technologies
 - **Power BI** (DAX, Power Query)
-- **SQL Server** (Data Source)
+- **Data Source:** Local files (CSV, Excel, etc.)
 - Custom Date Table with Holiday Logic
